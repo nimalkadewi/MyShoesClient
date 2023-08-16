@@ -1,0 +1,33 @@
+.hdr{
+  margin-left: 40%;
+  margin-top: 2vh;
+}
+ul {
+  list-style-type: none;
+  /*margin: 40px;*/
+  padding-left: 20%;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(172, 3, 3);
+  font-weight: 800;
+  text-align: center;
+  padding: 24px 46px;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: #dfdede;
+  color: black;
+}
+.rw1{
+  width: 100%;
+}
