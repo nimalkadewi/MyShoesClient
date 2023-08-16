@@ -7,6 +7,7 @@ import {NgbModal} from "@ng-bootstrap/ng-bootstrap";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title = 'MyShoes-Client'
   constructor(private modalService: NgbModal) {
   }
 
